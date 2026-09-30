@@ -6,8 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "MGSMPv2.aternos.me",
-    "port": 54741,
+    "ip": "friends-4UYd.aternos.m",
+    "port": 16265,
+
     "version": "",
     "try-creative": false
   },
